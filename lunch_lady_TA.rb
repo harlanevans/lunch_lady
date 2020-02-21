@@ -43,6 +43,7 @@ class LunchLady
     @name = gets.strip
     puts "Welcome to heaven, #{@name}"
     sleep 1
+    puts "hello"
     menu
   end
   
