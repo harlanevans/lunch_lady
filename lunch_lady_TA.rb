@@ -3,8 +3,40 @@ require 'pry'
 class MainDish
   attr_accessor :item, :price
   def initialize(item, price)
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
     @item = item
     @price = price
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l"
+    puts "a;lskdjf;alsdjf;l
+    "
     # @main_dish = []
   end
 end
